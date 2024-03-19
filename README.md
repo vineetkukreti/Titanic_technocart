@@ -88,7 +88,7 @@ The final output is a CSV file containing predictions for whether each passenger
 
 ## 12. Author
 
-[Your Name]
+[vineet kukreti]
 
 ## 13. License
 
