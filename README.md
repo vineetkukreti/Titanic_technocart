@@ -1,6 +1,6 @@
 [![Documentation](https://img.shields.io/badge/documentation-read-green)](https://github.com/vineetkukreti/Titanic_technocart)
-[![GitHub stars](https://img.shields.io/github/stars/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/issues)
+[![GitHub stars](https://img.shields.io/github/stars/deepfence/FlowMeter)](https://github.com/vineetkukreti/Titanic_technocart)
+[![GitHub issues](https://img.shields.io/github/issues/deepfence/FlowMeter)](https://github.com/vineetkukreti/Titanic_technocart)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1op08QCOikM5mRLWFyjdkuDFq3B0L_-ft?usp=sharing)
 
 
