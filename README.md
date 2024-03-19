@@ -92,4 +92,4 @@ The final output is a CSV file containing predictions for whether each passenger
 
 ## 13. License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify the code for your own projects.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
