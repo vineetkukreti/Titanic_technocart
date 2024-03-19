@@ -20,8 +20,9 @@ The objective is to develop a machine learning model that accurately predicts th
 
 The data has been split into two groups:
 
-- training set (train.csv)[train.csv]
-- test set (test.csv)[test.csv]
+- training set [train.csv](train.csv)
+- test set [test.csv](test.csv)
+
 
 The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
