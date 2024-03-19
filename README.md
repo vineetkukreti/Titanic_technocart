@@ -1,3 +1,10 @@
+[![Documentation](https://vineetkukreti.rocks/)](https://vineetkukreti.rocks/)
+[![GitHub license](https://img.shields.io/github/license/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/blob/main/LICENSE)
+[![GitHub stars](https://vineetkukreti.rocks/)](https://github.com/deepfence/FlowMeter/stargazers)
+[![GitHub issues](https://vineetkukreti.rocks/)](https://github.com/deepfence/FlowMeter/issues)
+[![Slack](https://vineetkukreti.rocks/)](https://join.slack.com/t/deepfence-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ)
+
+
 # Predicting Titanic Survivors
 
 ## 1. Problem Statement
