@@ -6,7 +6,7 @@
 
 # Predicting Titanic Survivors
 
-## 1. Problem Statement
+## Problem Statement
 
 The objective is to develop a machine learning model that accurately predicts the survival status of passengers aboard the Titanic. This involves analyzing the dataset containing information about passengers and their survival outcome, and then training a model to make predictions based on relevant features.
 
@@ -16,7 +16,7 @@ The objective is to develop a machine learning model that accurately predicts th
 
 
 
-## 2. Dataset
+## 1. Dataset
 
 The data has been split into two groups:
 
@@ -47,7 +47,7 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 
 
 
-## 3. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 
 The EDA phase involves:
 - Data visualization: plotting relationships between target class and predictor variables, exploring distributions of features, etc.
@@ -61,7 +61,7 @@ The EDA phase involves:
 
 
 
-## 4. Data Preprocessing
+## 3. Data Preprocessing
 
 This phase includes:
 - Handling missing values: imputing null values for certain features like Age, Fare, Embarked, etc.
@@ -69,11 +69,11 @@ This phase includes:
 - Label encoding: converting categorical features into numerical representations using label encoding.
 - Creating additional features: like 'isAlone' to indicate if a passenger is traveling alone, 'classAge' by multiplying Pclass and Age, etc.
 
-## 5. Feature Selection
+## 4. Feature Selection
 
 Utilizing ensemble methods to identify the most important features for survival prediction. This involves using algorithms such as Random Forest, Extra Trees, AdaBoost, and Gradient Boosting to evaluate feature importances.
 
-## 6. Model Training and Prediction
+## 5. Model Training and Prediction
 
 We employ various machine learning algorithms for prediction, including Random Forest, Extra Trees, AdaBoost, Gradient Boosting, Support Vector Classifier, XGBoost, and Decision Trees. Hyperparameter tuning is performed to optimize the models for accuracy.
 
@@ -101,21 +101,21 @@ We employ various machine learning algorithms for prediction, including Random F
   - Min Child Weight: 7
 
 
-## 7. Model Evaluation
+## 6. Model Evaluation
 
 We evaluate the performance of each model using cross-validation techniques and calculate accuracy scores. Feature importances are analyzed to understand the significance of each feature in predicting survival.
 
-## 8. Result and Inference
+## 7. Result and Inference
 
 - **Feature Importance**: Features such as gender, title, age, fare, and deck are found to be significant predictors of survival across multiple classifiers.
 - **Model Performance**: XGBoost, Random Forest, and Extra Trees classifiers exhibit high accuracy in predicting survival, with XGBoost achieving the highest performance.
 
-## 9. Dependencies
+## 8. Dependencies
 
 - Python libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost.
 - Other packages: ydata-profiling (for data profiling).
 
-## 10. Files
+## 9. Files
 
 - Titanic_Survivors.ipynb: Jupyter Notebook containing the entire code implementation.
 - train.csv: Training dataset containing passenger information.
@@ -126,20 +126,20 @@ We evaluate the performance of each model using cross-validation techniques and 
 - output_file.html: webview of the dataset
 - requirements.txt: Packages used in the project are present in the this file . While clone the repo ,it's suggested that one should , firstly run this file. ```pip install -r requirements.txt ```
 
-## 11. Usage
+## 10. Usage
 
 - Clone the repository and ensure all dependencies are installed.
 - Run Titanic_Survivors.ipynb in a Jupyter Notebook environment or any compatible platform.
 - Follow the instructions and execute the code cells to perform data preprocessing, model training, and prediction.
 - Access the results.csv file to view the predictions made by the model.
 
-## 12. Author
+## 11. Author
 
 **Author:** Vineet Kukreti
 
 ---
 
-## 13. License
+## 12. License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
