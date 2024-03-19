@@ -6,6 +6,10 @@ The objective is to develop a machine learning model that accurately predicts th
 ![This is the image of titanic](titanic_image.jpg)
 
 
+<img src="titanic_image.jpg" alt="Example Image" width="300" height="200">
+
+
+
 ## 2. Dataset
 
 The data has been split into two groups:
