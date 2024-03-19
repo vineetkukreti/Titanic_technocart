@@ -135,8 +135,11 @@ We evaluate the performance of each model using cross-validation techniques and 
 
 ## 12. Author
 
-[vineet kukreti]
+**Author:** Vineet Kukreti
+
+---
 
 ## 13. License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
