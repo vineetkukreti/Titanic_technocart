@@ -46,6 +46,11 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 The EDA phase involves:
 - Data visualization: plotting relationships between target class and predictor variables, exploring distributions of features, etc.
 - Data profiling: generating a profiling report to understand the dataset's structure, summary statistics, missing values, etc.
+<div style="text-align:center">
+    <img src="image.png" alt="Alt Text" width="500" height="300">
+</div>
+
+
 
 ## 4. Data Preprocessing
 
