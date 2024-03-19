@@ -6,8 +6,6 @@
 
 # Predicting Titanic Survivors
 
---
-
 ## 1. Problem Statement
 
 The objective is to develop a machine learning model that accurately predicts the survival status of passengers aboard the Titanic. This involves analyzing the dataset containing information about passengers and their survival outcome, and then training a model to make predictions based on relevant features.
