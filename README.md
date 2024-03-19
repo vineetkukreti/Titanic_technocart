@@ -29,7 +29,7 @@ The test set should be used to see how well your model performs on unseen data. 
 
 We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
 
-## Data Dictionary
+
 | Variable | Definition                 | Key                                      |
 |----------|----------------------------|------------------------------------------|
 | survival | Survival                   | 0 = No, 1 = Yes                          |
@@ -44,6 +44,7 @@ We also include gender_submission.csv, a set of predictions that assume all and 
 | fare     | Passenger fare             |                                          |
 | cabin    | Cabin number               |                                          |
 | embarked | Port of Embarkation        | C = Cherbourg, Q = Queenstown, S = Southampton |
+| name     | Name's of Passengers       |                                          |
 
 
 
