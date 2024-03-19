@@ -3,10 +3,10 @@
 ## 1. Problem Statement
 
 The objective is to develop a machine learning model that accurately predicts the survival status of passengers aboard the Titanic. This involves analyzing the dataset containing information about passengers and their survival outcome, and then training a model to make predictions based on relevant features.
-![This is the image of titanic](titanic_image.jpg)
 
-
-<img src="titanic_image.jpg" alt="Example Image" width="300" height="200">
+<div style="text-align:center">
+    <img src="titanic_image.jpg" alt="Alt Text" width="500" height="300">
+</div>
 
 
 
