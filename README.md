@@ -11,7 +11,7 @@
 The objective is to develop a machine learning model that accurately predicts the survival status of passengers aboard the Titanic. This involves analyzing the dataset containing information about passengers and their survival outcome, and then training a model to make predictions based on relevant features.
 
 <div style="text-align:center">
-    <img src="titanic_image.jpg" alt="Alt Text" width="500" height="300">
+    <img src="images\titanic_image.jpg" alt="Alt Text" width="500" height="300">
 </div>
 
 
@@ -20,8 +20,8 @@ The objective is to develop a machine learning model that accurately predicts th
 
 The data has been split into two groups:
 
-- training set [train.csv](train.csv)
-- test set [test.csv](test.csv)
+- training set [train.csv](Dataset\train.csv)
+- test set [test.csv](Dataset\results.csv)
 
 The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features.
 
@@ -55,10 +55,10 @@ The EDA phase involves:
 
 
 <div style="text-align:center">
-    <img src="image.png" alt="Alt Text" width="500" height="300">
+    <img src="images\image.png" alt="Alt Text" width="500" height="300">
 </div>
 
--
+
 
 
 ## 4. Data Preprocessing
