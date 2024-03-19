@@ -1,8 +1,8 @@
-[![Documentation](https://vineetkukreti.rocks/)](https://vineetkukreti.rocks/)
+[![Documentation](https://img.shields.io/badge/documentation-read-green)](https://docs.deepfence.io/flowmeter)
 [![GitHub license](https://img.shields.io/github/license/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/blob/main/LICENSE)
-[![GitHub stars](https://vineetkukreti.rocks/)](https://github.com/deepfence/FlowMeter/stargazers)
-[![GitHub issues](https://vineetkukreti.rocks/)](https://github.com/deepfence/FlowMeter/issues)
-[![Slack](https://vineetkukreti.rocks/)](https://join.slack.com/t/deepfence-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ)
+[![GitHub stars](https://img.shields.io/github/stars/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/deepfence/FlowMeter)](https://github.com/deepfence/FlowMeter/issues)
+[![Slack](https://img.shields.io/badge/slack-@deepfence-blue.svg?logo=slack)](https://join.slack.com/t/deepfence-community/shared_invite/zt-podmzle9-5X~qYx8wMaLt9bGWwkSdgQ)
 
 
 # Predicting Titanic Survivors
