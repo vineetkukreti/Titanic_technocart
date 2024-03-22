@@ -111,6 +111,12 @@ We evaluate the performance of each model using cross-validation techniques and 
 - **Feature Importance**: Features such as gender, title, age, fare, and deck are found to be significant predictors of survival across multiple classifiers.
 - **Model Performance**: XGBoost, Random Forest, and Extra Trees classifiers exhibit high accuracy in predicting survival, with XGBoost achieving the highest performance.
 
+These are the Train Accuracy we have got so far :
+- Training Data Accuracy Matrix:
+- XGBoost Algorithm: 86.20%
+- RandomForest Algorithm: 86.20%
+- Decision Trees Classifier: 86.31%
+
 ## 8. Dependencies
 
 - Python libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost.
